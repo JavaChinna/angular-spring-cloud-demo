@@ -34,3 +34,8 @@
 
 [Create Reusable Angular Confirmation Dialog](https://www.javachinna.com/angular-confirmation-dialog/)
 
+[How to Build a Full stack application with Angular and Spring Cloud Microservices – Part 1
+](https://www.javachinna.com/angular-confirmation-dialog/)
+
+[How to Build a Full stack application with Angular and Spring Cloud Microservices – Part 2](https://www.javachinna.com/build-full-stack-application-angular-spring-cloud-microservices-p2/)
+
