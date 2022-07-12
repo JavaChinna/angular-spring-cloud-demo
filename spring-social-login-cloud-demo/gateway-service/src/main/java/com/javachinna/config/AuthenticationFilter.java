@@ -2,7 +2,6 @@ package com.javachinna.config;
 
 import java.util.List;
 
-import org.springframework.cloud.context.config.annotation.RefreshScope;
 import org.springframework.cloud.gateway.filter.GatewayFilter;
 import org.springframework.cloud.gateway.filter.GatewayFilterChain;
 import org.springframework.http.HttpStatus;
@@ -16,7 +15,6 @@ import io.jsonwebtoken.Claims;
 import lombok.RequiredArgsConstructor;
 import reactor.core.publisher.Mono;
 
-@RefreshScope
 @Component
 @RequiredArgsConstructor
 public class AuthenticationFilter implements GatewayFilter {
