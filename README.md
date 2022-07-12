@@ -1,6 +1,6 @@
 # Angular + Spring Boot Fullstack Application Development Tutorial Series
 
-[Creating Backend - Spring REST API - Part 1](https://www.javachinna.com/spring-boot-angular-two-factor-authentication/)
+[Creating Backend - Spring REST API - Part 1](https://www.javachinna.com/spring-boot-angular-10-user-registration-oauth2-social-login-part-1/)
 
 [Creating Backend - Spring REST API - Part 2](https://www.javachinna.com/spring-boot-angular-10-user-registration-oauth2-social-login-part-2/)
 
